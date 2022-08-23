@@ -1,0 +1,8 @@
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\bin\Debug\Jenkins.exe.config
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\bin\Debug\Jenkins.exe
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\bin\Debug\Jenkins.pdb
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\obj\Debug\Jenkins.csproj.AssemblyReference.cache
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\obj\Debug\Jenkins.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\obj\Debug\Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\obj\Debug\Jenkins.exe
+C:\Users\Lavanya_Teela\source\repos\Jenkins\Jenkins\obj\Debug\Jenkins.pdb
