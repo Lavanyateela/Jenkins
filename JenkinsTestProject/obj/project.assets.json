@@ -6223,7 +6223,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lavanya_Teela\\.nuget\\packages\\": {}
+    "C:\\Users\\Lavanya_Teela.EPAM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -6231,11 +6231,11 @@
       "projectUniqueName": "C:\\Users\\Lavanya_Teela\\source\\repos\\Jenkins\\JenkinsTestProject\\JenkinsTestProject.csproj",
       "projectName": "JenkinsTestProject",
       "projectPath": "C:\\Users\\Lavanya_Teela\\source\\repos\\Jenkins\\JenkinsTestProject\\JenkinsTestProject.csproj",
-      "packagesPath": "C:\\Users\\Lavanya_Teela\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Lavanya_Teela.EPAM\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lavanya_Teela\\source\\repos\\Jenkins\\JenkinsTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lavanya_Teela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lavanya_Teela.EPAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
